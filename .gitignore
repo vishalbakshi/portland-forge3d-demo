@@ -1,0 +1,6 @@
+data/
+out/
+gtfs.zip
+__pycache__/
+.DS_Store
+.claude/
